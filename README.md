@@ -1,2 +1,3 @@
 # Codeforces-Problem-Solution-in-Python-3
-This repo is for who wants to see the solution of codeforces code. 
+This repository contains the solutions to CodeForces competitions.
+  The challenges can be found at www.codeforces.com
